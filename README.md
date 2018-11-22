@@ -5,4 +5,6 @@ Final Result
 
 Sigmoid Function
 ![sig](https://user-images.githubusercontent.com/37565807/48919817-0da4cf80-eebb-11e8-9af7-493770401362.png
+
+
 ![sigmoid](https://user-images.githubusercontent.com/37565807/48919720-9111f100-eeba-11e8-9898-04721c7d8f46.png)
